@@ -1,14 +1,12 @@
-## Developer Portfolio Landing Page Template
-
-### ⚠️ Project Discontinued ⚠️
-
-**Note:** This project is no longer maintained and has been discontinued. No further updates or support will be provided. Feel free to fork the repository and make any necessary changes on your own.
-
----
+## Developer Portfolio Landing Page 
 
 ### Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+Hi, I am Yingzi(Zoe) Yuan, a person who is toddling on the road to become a data expert.
+This personal website is based on [Ivanna evance](https://github.com/evanca)'s repo.
+I use this template to present my works and to introduce my skills better for landing an internship of Data analyst/ Data Science/ Data Engineer / Software Engineer.
+If you like it, you can also visit the Medium Link below and use this template to build your own page.
+
 
 ### Installation
 
@@ -43,10 +41,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Roadmap
 
-This project has been discontinued and is no longer actively maintained. No new features or fixes will be added. If you're interested in contributing, feel free to fork the repository and customize it to your needs.
-___
 
 ### References
 
