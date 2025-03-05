@@ -12,8 +12,9 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Highway Big Data Analytics and Visualization Dashboard](http://39.105.1.143:9998/ )
+[Project Introduction](https://docs.google.com/presentation/d/1A2bPSx9vF1x0Jmy0NeHrYnkctKXp56VlwC_TXf0Hx8o/edit?usp=sharing)
+<img src="images/images/Screenshot 2025-03-05 020916.png?raw=true"/>
 
 ---
 
