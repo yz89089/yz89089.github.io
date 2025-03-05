@@ -14,7 +14,7 @@
 ---
 [Highway Big Data Analytics and Visualization Dashboard](http://39.105.1.143:9998/ )
 [Project Introduction](https://docs.google.com/presentation/d/1A2bPSx9vF1x0Jmy0NeHrYnkctKXp56VlwC_TXf0Hx8o/edit?usp=sharing)
-<img src="images/images/highway1.png?raw=true"/>
+<img src="images/highway1.png?raw=true"/>
 
 ---
 
