@@ -1,12 +1,25 @@
 title: Yingzi(Zoe) Yuan # your name (or website title) here
 logo: "/images/image.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+ 
+  **Who am I?**<br>
   <br><br>
-  Second description 
+  I’m someone who enjoys digging through the vast sands of data, always searching for hidden insights like treasures.<br>
+  With curiosity and creativity, I’m driven to become a data storyteller — someone who not only uncovers patterns, but also turns them into clear, compelling stories that drive better decisions. 
   <br><br>
+
+  **Skills**<br>
+  - Python<br>
+  - SQL<br>
+  - Machine Learning<br>
+  - Data Visualization<br>
+
+
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
+  **Education**<br>
+  Computer Science MSc Big Data 2024 Sep - Present<br> 
+  Software Engineering MSc      2020 Sep - 2023 Sep<br><br>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
