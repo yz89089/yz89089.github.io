@@ -3,8 +3,10 @@ logo: "/images/image.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  
   <span style="color:#b950a5;">Who Am I?</span><br>
-  I’m someone who enjoys digging through the vast sands of data, always searching for hidden insights like treasures.<br>
-  With curiosity and creativity, I’m driven to become a data storyteller — someone who not only uncovers patterns, but also turns them into clear, compelling stories that drive better decisions. 
+  I enjoy digging through the vast sands of data, searching for hidden insights like treasures.<br>
+  I like solving problems and making progress.
+  <span style="color:#b950a5;">Skills</span><br>
+  Python(Numpy, Pandas), SQL(MySql, PostgreSql), Machine Learning, Spark, Tableau
   <br><br>
 
 
