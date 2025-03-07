@@ -1,8 +1,19 @@
 
----
----
+
 
 body {
-    background-color: #f5ecd4;  /* 设置背景颜色 */
-    font-family: Arial, sans-serif;  /* 设置字体 */
+    background-color: #f5ecd4;  /* 设置纯色背景 */
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
 }
+
+.wrapper {
+    max-width: 960px;
+    margin: 50px auto;
+    background-color: white;  /* 内容区域背景色 */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    border-radius: 10px;
+}
+
