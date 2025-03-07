@@ -8,12 +8,15 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### Intelligent text big data analysis display platform
+- Project Summary [Link](/pdf/pdf2.pdf)
+<img src="images/Project2.png?raw=true"/>
 
 ---
-- [Highway Big Data Analytics and Visualization Dashboard](http://39.105.1.143:9998/ )
-- [Project Introduction](/pdf/pdf3.pdf)
+
+#### Highway Big Data Analytics and Visualization Dashboard
+- Project Website [Link](http://39.105.1.143:9998/ )
+- Project Summary [Link](/pdf/pdf3.pdf)
 <img src="images/Picture1.png?raw=true"/>
 
 ---
