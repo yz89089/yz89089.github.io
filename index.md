@@ -6,7 +6,7 @@
 - Tableau DashBoard [Link](https://public.tableau.com/app/profile/yingzi.yuan/viz/Book1_17414960412010/Dashboard2?publish=yes)
 - Github Repo [Link](https://github.sfu.ca/wya65/cheerstodata)
 - Youtube [Link](https://www.youtube.com/watch?v=eNGkROW1Uew&ab_channel=SophiaYang)
-<img src="images/Tab1.png?raw=true"/>
+<img src="images/Tab2.png?raw=true"/>
 
 ---
 ### Intelligent text big data analysis display platform
