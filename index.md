@@ -4,6 +4,8 @@
 
 ### Analysis of Liquor Sales Data in Iowa
 - Tableau DashBoard [Link](https://public.tableau.com/app/profile/yingzi.yuan/viz/Book1_17414960412010/Dashboard2?publish=yes)
+- Github Repo [Link]([https://github.sfu.ca/wya65/cheerstodata](https://github.sfu.ca/wya65/cheerstodata/blob/main/CMPT%20732%20Big%20Data%20Project%20Report.md))
+- Youtube [Link](https://www.youtube.com/watch?v=eNGkROW1Uew&ab_channel=SophiaYang)
 <img src="images/Tab1.png?raw=true"/>
 
 ---
