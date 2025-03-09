@@ -3,10 +3,11 @@ logo: "/images/image.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  
   <span style="color:#b950a5;">Who Am I?</span><br>
-  I enjoy digging through the vast sands of data, searching for hidden insights like treasures.<br>
-  I like solving problems and making progress.<br>
+  Opening to intern of DA/DE/DS/ML/SDE.<br>
+  Enjoy coding and analyzing data.<br>
+  Love solving problems and making progress.<br>
   <span style="color:#b950a5;">Skills</span><br>
-  Python(Numpy, Pandas), SQL(MySql, PostgreSql), Machine Learning, Spark, Tableau
+  Python(Numpy, Pandas), SQL(MySql, PostgreSql), Machine Learning, Spark, AWS, Tableau
   <br><br>
 
 
