@@ -2,8 +2,9 @@
 
 ---
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Analysis of Liquor Sales Data in Iowa
+- Tableau DashBoard [Link](https://public.tableau.com/app/profile/yingzi.yuan/viz/Book1_17414960412010/Dashboard2?publish=yes)
+<img src="images/Tab1.png?raw=true"/>
 
 ---
 ### Intelligent text big data analysis display platform
