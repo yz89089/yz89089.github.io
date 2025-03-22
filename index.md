@@ -10,15 +10,15 @@
 
 ---
 ### Intelligent text big data analysis display platform
-🔍Project Overview：
-Aimed to collect, analyze and improve the quality of large-scale campus news text data from different sources, focusing on text search, keyword extraction, sensitive content detection, and text management.
-🛠 My Role & Contribution：
-Responsible for designing and implementing the text preprocessing pipeline using Python, including data cleaning, keyword extraction with TextRank, and sensitive word detection based on a custom dictionary. I also worked with my teammate to define interface requirements for frontend-backend integration.
-⚠️Key Challenges：
-One major challenge was dealing with missing and inconsistent data in documents from the data provider. I proposed a standardization approach and restructured the data to improve compatibility with downstream modules.
-📚 What I Learned：
-Gained practical experience with Natual Language Process, and also improved my ability to write maintainable and scalable Python code. I learned the importance of clear communication when defining data interfaces with stakeholders.
-✨Want to know more details? 👉Project Summary PowerPoint [Link](https://docs.google.com/presentation/d/16s6zZYxvOKEwYpxy2t02wZa0QElIp27SVfzsVwCSuq8/edit?usp=sharing)
+🔍Project Overview：<br>
+Aimed to collect, analyze and improve the quality of large-scale campus news text data from different sources, focusing on text search, keyword extraction, sensitive content detection, and text management.<br>
+🛠 My Role & Contribution：<br>
+Responsible for designing and implementing the text preprocessing pipeline using Python, including data cleaning, keyword extraction with TextRank, and sensitive word detection based on a custom dictionary. I also worked with my teammate to define interface requirements for frontend-backend integration.<br>
+⚠️Key Challenges：<br>
+One major challenge was dealing with missing and inconsistent data in documents from the data provider. I proposed a standardization approach and restructured the data to improve compatibility with downstream modules.<br>
+📚 What I Learned：<br>
+Gained practical experience with Natual Language Process, and also improved my ability to write maintainable and scalable Python code. I learned the importance of clear communication when defining data interfaces with stakeholders.<br>
+✨Want to know more details? <br>👉Project Summary PowerPoint [Link](https://docs.google.com/presentation/d/16s6zZYxvOKEwYpxy2t02wZa0QElIp27SVfzsVwCSuq8/edit?usp=sharing)<br>
 <img src="images/Project2.png?raw=true"/>
 
 ---
