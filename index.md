@@ -36,10 +36,10 @@ Aimed to collect, analyze and improve the quality of large-scale campus news tex
 -  Interpreting vague business needs and translating them into feasible algorithmic solutions.<br>
 -  Managing two versions of code in different languages (Python and Java) before merging and deployment. <br>
 - Dealing with missing and inconsistent data in documents from the data provider<br>I proposed a standardization approach and restructured the data to improve compatibility with downstream modules.<br>
-
 #### 📚 What I Learned：
 - Enhanced leadership skills through coordinating multi-role collaboration and aligning team priorities with client feedback. learned the importance of clear communication when defining data interfaces with stakeholders.<br>
 - Gained practical experience with Natual Language Process, and also improved ability to write maintainable and scalable Python code.<br>
+
 #### ✨Want to know more details?
 - 👉Project Summary PowerPoint [Link](https://docs.google.com/presentation/d/16s6zZYxvOKEwYpxy2t02wZa0QElIp27SVfzsVwCSuq8/edit?usp=sharing)<br>
 <img src="images/Project2.png?raw=true"/>
@@ -57,6 +57,7 @@ A highway big data analytics and visualization dashboard to assist transportatio
 #### ⚠️Key Challenges：
 - Translating vague client requirements into specific data metrics and visualizations.<br>
 - Navigating unfamiliar report tools and integrating with backend services smoothly. <br>
+
 #### 📚 What I Learned：
 - Strengthened skills in SQL, shell scripting, and data visualization.<br>
 - Developed communication skills through continuous collaboration with teammates and coordination with stakeholders.<br>
