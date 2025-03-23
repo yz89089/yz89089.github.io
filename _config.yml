@@ -2,16 +2,19 @@ title: Yingzi(Zoe) Yuan # your name (or website title) here
 logo: "/images/image.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  
-  <span style="color:#b950a5;">Who Am I?</span><br>
-  <span style="color:#5CA145;">Open to DA/DE/DS/ML/SDE internship.</span><br>
+  <span style="color:#b950a5;">👩‍💻 About Me</span><br>
+  <span style="color:#5CA145;">💼Seeking co-op opportunities where I can apply data-driven thinking to real-world problems.</span><br>
   Enjoy coding and analyzing data.<br>
   Love solving problems and making progress.<br>
   <span style="color:#b950a5;">Skills</span><br>
   Python(Numpy, Pandas), SQL(MySql, PostgreSql), Machine Learning, Spark, AWS, Tableau
   <br><br>
 
+  📍 Burnaby, BC  <br>
+  📬 Contact: yya309@sfu.ca | [LinkedIn](https://www.linkedin.com/in/yingzi-yuan)
 
-  <a href="https://www.linkedin.com/in/yingzi-yuan">View My LinkedIn Profile</a> 
+
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
