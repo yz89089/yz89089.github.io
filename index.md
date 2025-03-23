@@ -3,23 +3,22 @@
 ### 🍷Iowa Liquor Sales Data Analysis
 A data analysis project using public liquor sales data from the state of Iowa, with the goal of uncovering trends in consumer behavior, seasonal patterns, and store performance.<br>
 
-#### 🛠Tools: 
-- Python (pandas, matplotlib), PySpark, Tableau
+🛠**Tools**: Python (Scikit-Learn, pandas, matplotlib), PySpark, Tableau <br>
 
-#### ✨Highlights:
+✨**Highlights**: <br>
 - Data Integration Across Diverse Sources
 - Normalized store performance based on operational years
-- Addressed holiday-based irregularity using custom UDFs
+- Optimized Machine Learning models to predict seasonal and holiday-specific trends
 - Built interactive dashboards to display product-category and location insights
 
-#### 🔍Want more details? 
+🔍**Want more details?** <br>
 - [Report](https://github.sfu.ca/wya65/cheerstodata) | [Tableau Dashboard](https://public.tableau.com/app/profile/yingzi.yuan/viz/Book1_17414960412010/Dashboard2?publish=yes) | [YouTube](https://www.youtube.com/watch?v=eNGkROW1Uew&ab_channel=SophiaYang)
 <br>
 <img src="images/Tab2.png?raw=true"/>
 
 ---
 ### 🖥️ Intelligent text big data analysis display platform
-Aimed to collect, analyze and improve the quality of large-scale campus news text data from different sources, focusing on text search, keyword extraction, sensitive content detection, and text management.<br>
+Aimed to collect, analyze, and improve the quality of large-scale campus news text data from different sources, focusing on text search, keyword extraction, sensitive content detection, and text management.<br>
 
 #### 🛠Tools：
 - Python, NLP(TextRank, LDA), Flask, Elasticsearch, shell
