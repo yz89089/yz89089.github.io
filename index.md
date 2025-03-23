@@ -1,4 +1,4 @@
-## 📂Portfolio
+## Portfolio
 ---
 ### 🍷Iowa Liquor Sales Data Analysis
 A data analysis project using public liquor sales data from the state of Iowa, with the goal of uncovering trends in consumer behavior, seasonal patterns, and store performance.<br>
