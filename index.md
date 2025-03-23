@@ -6,8 +6,9 @@
 #### 🔍Project Overview：<br>
 A data analysis project using public liquor sales data from the state of Iowa, with the goal of uncovering trends in consumer behavior, seasonal patterns, and store performance.<br>
 #### 🛠 My Role & Contribution：<br>
-- Designed and implemented data pipelines for geospatial and time-series analysis, including identifying top-selling counties and seasonal peaks. 
-- Created interactive visualizations and dashboards in Tableau to reveal insights across store locations, product categories, and time trends. <br>
+- Designed and implemented data pipelines for geospatial and time-series analysis, including identifying top-selling counties and seasonal peaks. <br>
+- Created interactive visualizations and dashboards in Tableau to reveal insights across store locations, product categories, and time trends.<br>
+
 #### ⚠️Key Challenges：<br>
 - Data Integration Across Diverse Sources<br>Faced challenges combining big data frameworks (Spark) with traditional tools (GeoPandas); resolved by downsampling, format conversion, and staged processing across environments.<br>
 - Temporal Analysis Under Data Inconsistency<br>Normalized sales metrics based on store operating years and handled irregular time data (e.g., holidays) using custom UDFs for accurate time-based comparison.<br>
@@ -26,8 +27,9 @@ A data analysis project using public liquor sales data from the state of Iowa, w
 #### 🔍Project Overview：<br>
 Aimed to collect, analyze and improve the quality of large-scale campus news text data from different sources, focusing on text search, keyword extraction, sensitive content detection, and text management.<br>
 #### 🛠 My Role & Contribution：<br>
-- Responsible for designing and implementing the text preprocessing pipeline using Python, including data cleaning, keyword extraction with TextRank, and sensitive word detection based on a custom dictionary.
+- Responsible for designing and implementing the text preprocessing pipeline using Python, including data cleaning, keyword extraction with TextRank, and sensitive word detection based on a custom dictionary.<br>
 - Worked with teammates to define interface requirements for frontend-backend integration.<br>
+
 #### ⚠️Key Challenges：<br>
 -  Interpreting vague business needs and translating them into feasible algorithmic solutions.<br>
 -  Managing two versions of code in different languages (Python and Java) before merging and deployment. <br>
@@ -45,8 +47,9 @@ Aimed to collect, analyze and improve the quality of large-scale campus news tex
 #### 🔍Project Overview：<br>
 A highway big data analytics and visualization dashboard to assist transportation authorities in monitoring traffic flow and transaction performance across regions.<br>
 #### 🛠 My Role & Contribution：<br>
-- Designed and implemented SQL queries to retrieve and process key vehicle and transaction data required by the client. 
+- Designed and implemented SQL queries to retrieve and process key vehicle and transaction data required by the client. <br>
 - Participated in dashboard development using a visual report design tool, customizing multiple real-time data panels for traffic volume and transaction cost display. <br>
+
 #### ⚠️Key Challenges：<br>
 - Translating vague client requirements into specific data metrics and visualizations.<br>
 - Navigating unfamiliar report tools and integrating with backend services smoothly. <br>
