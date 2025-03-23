@@ -2,7 +2,7 @@
 
 ---
 
-### Analysis of Liquor Sales Data in Iowa
+### 🍷 Iowa Liquor Sales Data Analysis
 #### 🔍Project Overview：
 A data analysis project using public liquor sales data from the state of Iowa, with the goal of uncovering trends in consumer behavior, seasonal patterns, and store performance.<br>
 #### 🛠 My Role & Contribution：
@@ -24,7 +24,7 @@ A data analysis project using public liquor sales data from the state of Iowa, w
 <img src="images/Tab2.png?raw=true"/>
 
 ---
-### Intelligent text big data analysis display platform
+### 🖥️ Intelligent text big data analysis display platform
 #### 🔍Project Overview：
 Aimed to collect, analyze and improve the quality of large-scale campus news text data from different sources, focusing on text search, keyword extraction, sensitive content detection, and text management.<br>
 
@@ -36,6 +36,7 @@ Aimed to collect, analyze and improve the quality of large-scale campus news tex
 -  Interpreting vague business needs and translating them into feasible algorithmic solutions.<br>
 -  Managing two versions of code in different languages (Python and Java) before merging and deployment. <br>
 - Dealing with missing and inconsistent data in documents from the data provider<br>I proposed a standardization approach and restructured the data to improve compatibility with downstream modules.<br>
+
 #### 📚 What I Learned：
 - Enhanced leadership skills through coordinating multi-role collaboration and aligning team priorities with client feedback. learned the importance of clear communication when defining data interfaces with stakeholders.<br>
 - Gained practical experience with Natual Language Process, and also improved ability to write maintainable and scalable Python code.<br>
@@ -46,7 +47,7 @@ Aimed to collect, analyze and improve the quality of large-scale campus news tex
 
 ---
 
-### Highway Big Data Analytics and Visualization Dashboard
+### 🛣️ Highway Big Data Analytics and Visualization Dashboard
 #### 🔍Project Overview：
 A highway big data analytics and visualization dashboard to assist transportation authorities in monitoring traffic flow and transaction performance across regions.<br>
 
