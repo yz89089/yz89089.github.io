@@ -15,7 +15,6 @@ A data analysis project using public liquor sales data from the state of Iowa, w
 #### 🔍Want more details? 
 - [Report](https://github.sfu.ca/wya65/cheerstodata) | [Tableau Dashboard](https://public.tableau.com/app/profile/yingzi.yuan/viz/Book1_17414960412010/Dashboard2?publish=yes) | [YouTube](https://www.youtube.com/watch?v=eNGkROW1Uew&ab_channel=SophiaYang)
 <br>
-
 <img src="images/Tab2.png?raw=true"/>
 
 ---
