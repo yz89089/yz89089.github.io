@@ -20,16 +20,14 @@ A data analysis project using public liquor sales data from the state of Iowa, w
 ### 🖥️ Intelligent text big data analysis display platform
 Aimed to collect, analyze, and improve the quality of large-scale campus news text data from different sources, focusing on text search, keyword extraction, sensitive content detection, and text management.<br>
 
-#### 🛠Tools：
-- Python, NLP(TextRank, LDA), Flask, Elasticsearch, shell
+🛠**Tools**：Python, NLP(TextRank, LDA), Flask, Elasticsearch, shell
 
-#### ✨Highlights:
+✨**Highlights**:
 -  Interpreting vague business needs and translating them into feasible algorithmic solutions.
 - Responsible for designing and implementing the text preprocessing pipeline using Python, including data cleaning, keyword extraction with TextRank, and sensitive word detection based on a custom dictionary.
 - Worked with teammates to define interface requirements for frontend-backend integration.
 
-#### 🔍Want more details?
-- [Project Summary Slides](https://docs.google.com/presentation/d/16s6zZYxvOKEwYpxy2t02wZa0QElIp27SVfzsVwCSuq8/edit?usp=sharing)<br>
+🔍**More details**: [Project Summary Slides](https://docs.google.com/presentation/d/16s6zZYxvOKEwYpxy2t02wZa0QElIp27SVfzsVwCSuq8/edit?usp=sharing)<br>
 <img src="images/Project2.png?raw=true"/>
 
 ---
@@ -37,18 +35,15 @@ Aimed to collect, analyze, and improve the quality of large-scale campus news te
 ### 🛣️ Highway Big Data Analytics and Visualization Dashboard
 A highway big data analytics and visualization dashboard to assist transportation authorities in monitoring traffic flow and transaction performance across regions.<br>
 
-#### 🛠 Tools：
-- SQL, shell, dashboard tool
+🛠 **Tools**：SQL, shell, dashboard tool
 
-#### ✨Highlights:
+✨**Highlights**:
 - Designed and implemented SQL queries to retrieve and process key vehicle and transaction data required by the client. 
 - Navigating unfamiliar report tools and integrating with backend services smoothly.
 - Developed communication skills through continuous collaboration with teammates and coordination with stakeholders.
 
-#### 🔍Want more details?
-- [Project Website](http://39.105.1.143:9998/ ) | [Project Summary Slides](https://docs.google.com/presentation/d/1A2bPSx9vF1x0Jmy0NeHrYnkctKXp56VlwC_TXf0Hx8o/edit?usp=sharing)<br>
+🔍**More details**:[Project Website](http://39.105.1.143:9998/ ) | [Project Summary Slides](https://docs.google.com/presentation/d/1A2bPSx9vF1x0Jmy0NeHrYnkctKXp56VlwC_TXf0Hx8o/edit?usp=sharing)<br>
 <img src="images/Picture1.png?raw=true"/>
-
 
 
 ---
