@@ -1,26 +1,21 @@
-## Portfolio
+## 📂Portfolio
 
 ---
 
-### 🍷 Iowa Liquor Sales Data Analysis
+### 🍷Iowa Liquor Sales Data Analysis
 #### 🔍Project Overview：
 A data analysis project using public liquor sales data from the state of Iowa, with the goal of uncovering trends in consumer behavior, seasonal patterns, and store performance.<br>
-#### 🛠 My Role & Contribution：
-- Designed and implemented data pipelines for geospatial and time-series analysis, including identifying top-selling counties and seasonal peaks. <br>
-- Created interactive visualizations and dashboards in Tableau to reveal insights across store locations, product categories, and time trends.<br>
 
-#### ⚠️Key Challenges：
-- Data Integration Across Diverse Sources<br>Faced challenges combining big data frameworks (Spark) with traditional tools (GeoPandas); resolved by downsampling, format conversion, and staged processing across environments.<br>
-- Temporal Analysis Under Data Inconsistency<br>Normalized sales metrics based on store operating years and handled irregular time data (e.g., holidays) using custom UDFs for accurate time-based comparison.<br>
+#### 🛠Tools: 
+- Python (pandas, matplotlib), PySpark, Tableau
 
-#### 📚 What I Learned：
-- Gained practical experience with Tableau, Python (pandas, matplotlib), and public dataset exploration.<br>
-- Learned how to communicate data-driven findings clearly through dashboards and presentations.<br>
+#### ✨Highlights:
+- Built interactive dashboards to display product-category and location insights
+- Normalized store performance based on operational years
+- Addressed holiday-based irregularity using custom UDFs
 
 #### ✨Want to know more details? 
-- 👉Project Summary Report [Link](https://github.sfu.ca/wya65/cheerstodata)
-- 👉Tableau DashBoard [Link](https://public.tableau.com/app/profile/yingzi.yuan/viz/Book1_17414960412010/Dashboard2?publish=yes)
-- 👉Youtube [Link](https://www.youtube.com/watch?v=eNGkROW1Uew&ab_channel=SophiaYang)
+[Report](https://github.sfu.ca/wya65/cheerstodata) | [Tableau Dashboard](https://public.tableau.com/app/profile/yingzi.yuan/viz/Book1_17414960412010/Dashboard2?publish=yes) | [YouTube](https://www.youtube.com/watch?v=eNGkROW1Uew&ab_channel=SophiaYang)
 <img src="images/Tab2.png?raw=true"/>
 
 ---
