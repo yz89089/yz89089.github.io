@@ -1,5 +1,5 @@
 ## 📂Portfolio
-
+---
 ### 🍷Iowa Liquor Sales Data Analysis
 #### 🔍Project Overview：
 A data analysis project using public liquor sales data from the state of Iowa, with the goal of uncovering trends in consumer behavior, seasonal patterns, and store performance.<br>
@@ -15,6 +15,7 @@ A data analysis project using public liquor sales data from the state of Iowa, w
 #### ✨Want to know more details? 
 [Report](https://github.sfu.ca/wya65/cheerstodata) | [Tableau Dashboard](https://public.tableau.com/app/profile/yingzi.yuan/viz/Book1_17414960412010/Dashboard2?publish=yes) | [YouTube](https://www.youtube.com/watch?v=eNGkROW1Uew&ab_channel=SophiaYang)
 <br>
+
 <img src="images/Tab2.png?raw=true"/>
 
 ---
