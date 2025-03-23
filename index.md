@@ -13,9 +13,9 @@ A data analysis project using public liquor sales data from the state of Iowa, w
 - Data Integration Across Diverse Sources<br>Faced challenges combining big data frameworks (Spark) with traditional tools (GeoPandas); resolved by downsampling, format conversion, and staged processing across environments.<br>
 - Temporal Analysis Under Data Inconsistency<br>Normalized sales metrics based on store operating years and handled irregular time data (e.g., holidays) using custom UDFs for accurate time-based comparison.<br>
 #### 📚 What I Learned：<br>
-- Gained practical experience with Tableau, Python (pandas, matplotlib), and public dataset exploration.
+- Gained practical experience with Tableau, Python (pandas, matplotlib), and public dataset exploration.<br>
 - Learned how to communicate data-driven findings clearly through dashboards and presentations.<br>
-#### ✨Want to know more details? 
+#### ✨Want to know more details? <br>
 <br>
 - 👉Project Summary Report [Link](https://github.sfu.ca/wya65/cheerstodata)
 - 👉Tableau DashBoard [Link](https://public.tableau.com/app/profile/yingzi.yuan/viz/Book1_17414960412010/Dashboard2?publish=yes)
@@ -34,7 +34,7 @@ Aimed to collect, analyze and improve the quality of large-scale campus news tex
 -  Interpreting vague business needs and translating them into feasible algorithmic solutions.<br>
 -  Managing two versions of code in different languages (Python and Java) before merging and deployment. <br>
 - Dealing with missing and inconsistent data in documents from the data provider<br>I proposed a standardization approach and restructured the data to improve compatibility with downstream modules.<br>
-- 
+  
 #### 📚 What I Learned：<br>
 - Enhanced leadership skills through coordinating multi-role collaboration and aligning team priorities with client feedback. learned the importance of clear communication when defining data interfaces with stakeholders.<br>
 - Gained practical experience with Natual Language Process, and also improved ability to write maintainable and scalable Python code.<br>
@@ -56,6 +56,7 @@ A highway big data analytics and visualization dashboard to assist transportatio
 #### 📚 What I Learned：<br>
 - Strengthened skills in SQL, shell scripting, and data visualization. .
 - Developed communication skills through continuous collaboration with teammates and coordination with stakeholders.<br>
+
 #### ✨Want to know more details? 
 <br>
 - 👉Project Website [Link](http://39.105.1.143:9998/ )
