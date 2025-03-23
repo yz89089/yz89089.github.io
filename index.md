@@ -11,7 +11,7 @@ A data analysis project using public liquor sales data from the state of Iowa, w
 - Optimized Machine Learning models to predict seasonal and holiday-specific trends
 - Built interactive dashboards to display product-category and location insights
 
-🔍**Want more details?** <br>
+🔍**More details?** <br>
 - [Report](https://github.sfu.ca/wya65/cheerstodata) | [Tableau Dashboard](https://public.tableau.com/app/profile/yingzi.yuan/viz/Book1_17414960412010/Dashboard2?publish=yes) | [YouTube](https://www.youtube.com/watch?v=eNGkROW1Uew&ab_channel=SophiaYang)
 <br>
 <img src="images/Tab2.png?raw=true"/>
@@ -24,7 +24,7 @@ Aimed to collect, analyze, and improve the quality of large-scale campus news te
 
 ✨**Highlights**:
 -  Interpreting vague business needs and translating them into feasible algorithmic solutions.
-- Responsible for designing and implementing the text preprocessing pipeline using Python, including data cleaning, keyword extraction with TextRank, and sensitive word detection based on a custom dictionary.
+- Responsible for designing and implementing the text preprocessing pipeline using Python, including data cleaning, keyword extraction with TextRank, similar text recommendations, abnormal link warning, and sensitive word detection.
 - Worked with teammates to define interface requirements for frontend-backend integration.
 
 🔍**More details**: [Project Summary Slides](https://docs.google.com/presentation/d/16s6zZYxvOKEwYpxy2t02wZa0QElIp27SVfzsVwCSuq8/edit?usp=sharing)<br>
