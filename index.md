@@ -16,7 +16,7 @@ An experimental AI chatbot designed to extract insights from PDF documents using
 
 🔍 **More details?**：[GitHub Repo](https://github.com/yz89089/llm_pdf_chatbot_demo) 
 <br>
-<img src="images/LLMDemo.png" width="700"/>
+<img src="images/LLMDemo.png?raw=true" />
 
 ---
 ### 🍷Iowa Liquor Sales Data Analysis
