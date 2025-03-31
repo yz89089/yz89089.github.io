@@ -1,5 +1,24 @@
 ## Portfolio
 ---
+
+🤖 LLM-based PDF Chatbot Demo
+An experimental AI chatbot designed to extract insights from PDF documents using state-of-the-art large language models. The system allows users to upload documents and interactively query their content in natural language.<br>
+
+🛠 **Tools**: Python, LangChain, OpenAI API, FAISS, Streamlit <br>
+<br>
+
+✨ **Highlights**:<br>
+
+- Built end-to-end pipeline to process, chunk, embed, and store PDF content using LangChain and FAISS
+- Implemented real-time user query interface with Streamlit
+- Experimented with different prompt strategies to improve LLM response accuracy and context awareness
+- Integrated multiple LLMs (ChatGPT, Claude) with modular support for switching providers
+
+🔍 **More details?**：[GitHub Repo](https://github.com/yz89089/llm_pdf_chatbot_demo) 
+<br>
+<img src="images/LLMDemo.png" width="700"/>
+
+---
 ### 🍷Iowa Liquor Sales Data Analysis
 A data analysis project using public liquor sales data from the state of Iowa, with the goal of uncovering trends in consumer behavior, seasonal patterns, and store performance.<br>
 
