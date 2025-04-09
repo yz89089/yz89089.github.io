@@ -13,6 +13,7 @@ A data-driven project aims to predict SPY's daily movement direction (S&P 500 ET
 - Built and compared models (ARIMA, RF, LSTM, XGBoost); RF achieved the best performance
 - Simulated trading strategy based on model predictions to evaluate potential returns
 <br>
+
 <img src="images/stocks.png?raw=true" />
 
 
