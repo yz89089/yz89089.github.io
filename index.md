@@ -1,6 +1,6 @@
 ## Portfolio
 ---
-📈 Sentiment Meets Stock
+### 📈 Sentiment Meets Stock
 A data-driven project aims to predict SPY's daily movement direction (S&P 500 ETF) by analyzing financial news sentiment. This end-to-end pipeline integrates text processing, sentiment analysis, and machine learning to enhance market prediction accuracy.<br>
 
 🛠 Tools: Python, FinBERT, OpenAI GPT API, VADER, XGBoost, ARIMA, LSTM, scikit-learn, pandas, yfinance<br>
@@ -20,7 +20,7 @@ A data-driven project aims to predict SPY's daily movement direction (S&P 500 ET
 
 
 ---
-🤖 LLM-based PDF Chatbot Demo
+### 🤖 LLM-based PDF Chatbot Demo
 An experimental AI chatbot designed to extract insights from PDF documents using state-of-the-art large language models. The system allows users to upload documents and interactively query their content in natural language.<br>
 
 🛠 **Tools**: Python, LangChain, OpenAI API, FAISS, Streamlit <br>
